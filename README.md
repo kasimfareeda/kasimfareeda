@@ -1,6 +1,6 @@
 
 ### Hi there 👋🏽
-I'm Fareeda, a sophmore majoring in Computer Science at Georgia Tech. I am passionate about design, technology and social change. I love learning new things and I am constantly looking for opportunities to challenge myself. I am currently internship seeking opportunities for summer 2021 that would allow me to explore my interests, specifically in UX/UI design, software developmet, human-computer interaction, or product management. 
+I'm Fareeda, a sophmore majoring in Computer Science at Georgia Tech. I am passionate about design, technology and social change. I love learning new things and I am constantly looking for opportunities to challenge myself. I am currently internship seeking opportunities for summer 2021 that would allow me to explore my interests, specifically in software development, UX/UI design, human-computer interaction, or product management. 
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/kasimfareeda/) about anything. I'd love to hear from you!
 
